@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[GitPub]]></title>
-  <link href="http://www.gitpub.org.uk/atom.xml" rel="self"/>
-  <link href="http://www.gitpub.org.uk/"/>
-  <updated>2014-01-19T12:31:19+00:00</updated>
-  <id>http://www.gitpub.org.uk/</id>
+  <link href="http://gitpubsheff.github.io/atom.xml" rel="self"/>
+  <link href="http://gitpubsheff.github.io/"/>
+  <updated>2014-01-19T12:45:23+00:00</updated>
+  <id>http://gitpubsheff.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Next Event]]></title>
-    <link href="http://www.gitpub.org.uk/blog/2014/01/19/next-event/"/>
+    <link href="http://gitpubsheff.github.io/blog/2014/01/19/next-event/"/>
     <updated>2014-01-19T00:00:00+00:00</updated>
-    <id>http://www.gitpub.org.uk/blog/2014/01/19/next-event</id>
+    <id>http://gitpubsheff.github.io/blog/2014/01/19/next-event</id>
     <content type="html"><![CDATA[<p>This Geeks in the Pub we will be at the <a href="https://www.google.com/maps/preview#!q=old+queens+head%2C+sheffield&amp;data=!4m15!2m14!1m13!1s0x48798282a609f0e5%3A0x5438d238710e51e2!3m8!1m3!1d2117!2d-0.1004527!3d51.5372607!3m2!1i1366!2i655!4f13.1!4m2!3d53.381057!4d-1.463086">Old Queens Head</a> on Wednesday 4th December staring at 18:30 until 23:00ish.</p>
 
 <p>See you all there!</p>
