@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.gitpub.org.uk
+url: http://gitpubsheff.github.io/gitpubsheff
 title: GitPub
 subtitle: Geeks in the Pub
 simple_search: http://google.com/search
@@ -15,17 +15,17 @@ description: Geeks in the Pub is a meeting of every and any type of geek in Shef
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /gitpubsheff/atom.xml
 
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /gitpubsheff
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/gitpubsheff
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
