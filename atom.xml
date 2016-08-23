@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[GitPub]]></title>
+  <link href="http://gitpubsheff.github.io/atom.xml" rel="self"/>
+  <link href="http://gitpubsheff.github.io/"/>
+  <updated>2016-06-28T12:13:33+01:00</updated>
+  <id>http://gitpubsheff.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Next Event]]></title>
+    <link href="http://gitpubsheff.github.io/blog/2014/01/19/next-event/"/>
+    <updated>2014-01-19T00:00:00+00:00</updated>
+    <id>http://gitpubsheff.github.io/blog/2014/01/19/next-event</id>
+    <content type="html"><![CDATA[<p>This Geeks in the Pub we will be at <a href="http://www.riversidesheffield.co.uk/">The Riverside</a> on Wednesday 6th July 2016 starting at 18:00 until 23:00ish.</p>
+
+<p>See you all there!</p>
+]]></content>
+  </entry>
+  
+</feed>
