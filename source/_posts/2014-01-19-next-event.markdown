@@ -4,6 +4,6 @@ title: "Next Event"
 comments: false
 categories:
 ---
-This Geeks in the Pub we will be at [The Riverside](https://www.riversidesheffield.co.uk/) on Wednesday 2nd August 2017 starting at 18:00 until 23:00ish.
+This Geeks in the Pub we will be at [The Sheffield Tap](http://www.sheffieldtap.com/) on Wednesday 6th September 2017 starting at 18:00 until 23:00ish.
 
 See you all there!
