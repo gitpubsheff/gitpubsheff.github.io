@@ -3,6 +3,8 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@idotj/mastodon-embed-timeline@4.4.2/dist/mastodon-timeline.min.css" integrity="sha256-1UGgxsonaMCfOEnVOL89aMKSo3GEAmaRP0ISbsWa6lU=" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/@idotj/mastodon-embed-timeline@4.4.2/dist/mastodon-timeline.umd.js" integrity="sha256-E6WPG6iq+qQIzvu3HPJJxoAeRdum5siq13x4ITjyxu8=" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.css" />
   <link href="https://fonts.googleapis.com/css?family=Lato:900i|Roboto&display=swap" rel="stylesheet" />
   <title>GitPub</title>
@@ -71,11 +73,19 @@
       </div>
       <div class="column">
         <div class='box card'>
-          <iframe src="https://mastodon.social/@username/embed" 
-            class="mastodon-embed" 
-            style="max-width: 100%; border: 0" 
-            width="400"></iframe>
-          <script src="https://mastodon.social/embed.js" async="async"></script>
+          <div id="mt-container" class="mt-container">
+            <div class="mt-body" role="feed">
+              <div class="mt-loading-spinner"></div>
+            </div>
+          </div>
+          <script>
+             const myTimeline = new MastodonTimeline.Init({
+                instanceUrl: "https://mastodon.social/",
+                timelineType: "profile",
+                userId: "109496353292929001",
+                profileName: "@gitpub",
+             });
+          </script>
         </div>
       </div>
     </div>
